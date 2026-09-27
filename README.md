@@ -1,2 +1,4 @@
-# SC_302_Documentacion_JE_Keyla-Reyes-
+# SC\_302\_Documentacion\_JE\_Keyla-Reyes-
+
 Esta es mi primera práctica con GitHub.
+
